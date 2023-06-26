@@ -30,7 +30,7 @@ function RegisterForm() {
                             <Button variant='primary'>Login</Button>
                         </div>
                     </Form>
-                    <span className='text-center d-block text-secondary'>Belum punya akun? Klik <Link className='text-text-decoration-none' to='/'>disini</Link></span>
+                    <span className='text-center d-block text-secondary'>Sudah punya akun? Klik <Link className='text-text-decoration-none' to='/'>disini</Link></span>
                 </div>
             </div>
         </div>
